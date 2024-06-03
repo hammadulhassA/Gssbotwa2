@@ -4,7 +4,7 @@ const chalk = require('chalk');
 
 // Other
 global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
-global.linkGroup = 'https://chat.whatsapp.com/DJQhsJRiqs5D6rxzTmUUCS'
+global.linkGroup = https://whatsapp.com/channel/0029VadHtwWFCCoaogdKsh0B'https://whatsapp.com/channel/0029VadHtwWFCCoaogdKsh0B
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
 global.ownername = "QUEEN";
