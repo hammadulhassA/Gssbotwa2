@@ -7,13 +7,13 @@
   "env": {
     "AUTO_READ": {
       "description": "Enable auto read feature",
-      "required": false,
+      "required":true,
       "value": ""
     },
     "ALWAYS_ONLINE": {
   "description": "Enable always online feature",
-  "required": false,
-  "value": ""
+  "required": true,
+  "value": "true"
 },
 "AUTO_TYPING": {
   "description": "Enable auto typing feature",
@@ -28,7 +28,7 @@
     "TYPEMENU": {
   "description": "choose menu type from 1 to 5",
   "required": false,
-  "value": ""
+  "value": ","
 },
 "ONLYGROUP": {
   "description": "True for bot work in only group otherwise false",
