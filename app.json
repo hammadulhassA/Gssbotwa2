@@ -48,7 +48,7 @@
   },
   "buildpacks": [
     {
-      "url": "heroku/nodejs"
+      "url": "heroku/creds.json"
     },
     {
       "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
